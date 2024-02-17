@@ -1,3 +1,4 @@
+![Alt text](./employee_performance_screenshot.png?raw=true)
 # Employee Performance Dashboard Project
 
 ## Project Overview
